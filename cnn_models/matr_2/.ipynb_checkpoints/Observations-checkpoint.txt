@@ -1,0 +1,23 @@
+MODEL: CONVOLUTIONAL NEURAL NETWORK
+NUMBER OF MODELS: 10
+NUMBER OF EPOCHS: 2499
+AVERAGE RMSE OBTAINED: 198.4
+STANDART DEVIATION OF THE MODELS: 6.42
+BEST MODEL: model_3 (189.46)
+WORST MODEL: model_10 (213.57)
+IMPORTANTS OBSERVATIONS:
+
+
+204.74
+195.65
+189.46
+201.37
+193.98
+196.84
+197.98
+196.46
+193.93
+213.57
+
+
+For the vary few instances where the worst model has a better performance than the best one, the worst one gave more importantance to the surge in voltage that happen before the depression at the end

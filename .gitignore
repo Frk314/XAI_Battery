@@ -1,0 +1,13 @@
+# Ignore compiled Python code
+__pycache__
+
+# Ignore VSCode data
+.vscode/
+
+# Ignore spyproject
+.spyproject
+
+BatteryML/
+data/
+cache/
+workspaces/
